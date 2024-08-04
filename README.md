@@ -26,11 +26,11 @@ The data consists of medical information with labels O (other), D (disease) and 
 
 
 ## Technologies Used
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-spacy
+1. pandas
+2. numpy
+3. matplotlib.pyplot
+4. seaborn
+5. spacy
 
 ## Conclusions
 Identifying Entities in Healthcare Data
